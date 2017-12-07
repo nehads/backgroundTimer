@@ -1,0 +1,1 @@
+Counter that works in background/device locked
