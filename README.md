@@ -1,1 +1,1 @@
-Counter that works in background/device locked
+Counter that works in background when app closed/device locked
