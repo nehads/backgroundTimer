@@ -9,3 +9,7 @@
 .externalNativeBuild
 
 
+com.example.dell.backgroundtimer(androidTest)
+
+
+com.example.dell.backgroundtimer(test)
